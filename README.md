@@ -4,3 +4,9 @@ Name of Group Members:
 1. Grimaldo, James Leo
 2. Parcon, Mary Meliza
 3. Yamamoto, Rikiya
+---
+| Models            |
+|------------------ |
+|Xception           |
+|InceptionResNetV2  |
+|EfficientNetB7     |
